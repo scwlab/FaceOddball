@@ -1,1 +1,2 @@
 PsychoPy==2022.1.2
+pylsl

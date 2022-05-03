@@ -1,5 +1,7 @@
 # Face oddball
 
-Reqires Python 3.8 (3.10 not supported by psychopy yet)
+Oddball paradigm with target category "faces", against "objects. 10% target.
 
-mkvirtualenv -a . --python=$(which python3.8) -r requirements.txt psychopy
+TODO:
+ - LSL String marker
+ - Diverse stimuli: faces from CK and neutral objects from NAPS
