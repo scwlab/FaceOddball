@@ -1,7 +1,5 @@
 # Face oddball
 
-Oddball paradigm with target category "faces", against "objects. 10% target.
+Oddball paradigm with target category "faces" from the affect net dataset, against "landscapes" from the NAPS dataset. 10% target.
+500 ms image presentation. LSL string marker contains only category.
 
-TODO:
- - LSL String marker
- - Diverse stimuli: faces from CK and neutral objects from NAPS
