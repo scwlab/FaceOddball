@@ -1,2 +1,3 @@
 PsychoPy==2022.1.2
 pylsl
+idun_guardian_sdk
